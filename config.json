@@ -1,0 +1,8 @@
+{
+  "activo": true,
+  "version": "1.0",
+  "url_descarga": "https://github.com/aalonsogz/Idiomas/releases",
+  "modelo": "gemini-pro-latest",
+  "mensaje": "",
+  "mensaje_tipo": "info"
+}
