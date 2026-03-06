@@ -1,6 +1,0 @@
-{
-  "activo": true,
-  "modelo": "gemini-pro-latest",
-  "mensaje": "Configuración remota cargada correctamente",
-  "mensaje_tipo": "success"
-}
