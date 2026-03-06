@@ -1,6 +1,7 @@
 {
   "activo": true,
   "modelo": "gemini-pro-latest",
-  "mensaje": "",
+  "mensaje": "Nota del autor: Holaaaaaaaaa",
   "mensaje_tipo": "info"
+
 }
