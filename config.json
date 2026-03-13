@@ -1,6 +1,6 @@
 {
   "activo": true,
-  "version": "1.0",
+  "version": "1.1",
   "url_descarga": "https://github.com/aalonsogz/Idiomas/releases",
   "modelo": "gemini-flash-latest",
   "mensaje": "",
