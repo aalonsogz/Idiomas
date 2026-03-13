@@ -31,7 +31,7 @@ Para el funcionamiento correcto de la aplicación, es necesario que los párrafo
 
 En la aplicación hay un campo llamado **"Modelo"**. Este es el campo donde se indica a Google qué modelo de inteligencia artificial debe utilizar. El campo aparece rellenado por defecto con el modelo que personalmente considero más adecuado. No obstante, puedes cambiarlo si lo consideras necesario. Ten en cuenta que el modelo utilizado debe ser de Google (Gemini) necesariamente para que la aplicación funcione.
 
-El modelo que se carga por defecto es **gemini-pro-latest**, es decir, el mejor modelo de Gemini disponible, porque es el que considero más adecuado para la profundidad de análisis requerida. No obstante, no es el más barato. Si quieres realizar el examen de la forma más económica posible, utiliza el modelo **gemini-flash-latest**.
+El modelo que se carga por defecto es **gemini-flash-latest**, porque es el que considero más adecuado en relación calidad-precio. No obstante, no es el más avanzado. Si quieres realizar el examen con el modelo más avanzado, utiliza el modelo **gemini-pro-latest**, que es casi 10 veces más caro. 
 
 
 ## 2. Preparación
