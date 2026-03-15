@@ -6,7 +6,7 @@ A continuación se explica cómo usar la aplicación, paso a paso.
 
 ## 1. Configuración inicial
 
-Al hacer doble click para abrir la aplicación, esta tarda 10-20 segundos en abrirse. Sé paciente. Al abrir la aplicación, se muestra la siguiente pantalla de configuración:
+Al abrir la aplicación, se muestra la siguiente pantalla de configuración:
 
 ![Pantalla de configuración inicial](capturas/1.png)
 
