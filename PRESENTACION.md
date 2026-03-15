@@ -10,7 +10,7 @@ He desarrollado esta aplicación con el objetivo principal de hacer más accesib
 
 ## Coste
 
-La descarga y el uso de la aplicación son **gratuitos**. Lo único que hay que pagar es el uso de la inteligencia artificial de Google (Gemini), que cada usuario contrata directamente con su propia cuenta de Google. El coste depende del uso de IA, que varía de un examen a otro, pero el coste aproximado es de **50 céntimos por examen**. Este precio lo fija Google, no yo, y puede variar en el futuro. En tu cuenta personal de Google puedes consultar el consumo realizado con frecuencia diaria. Así conseguimos que $P = Cmg$ ;)
+La descarga y el uso de la aplicación son **gratuitos**. Lo único que hay que pagar es el uso de la inteligencia artificial de Google (Gemini), que cada usuario contrata directamente con su propia cuenta de Google. El coste depende del uso de IA, que varía de un examen a otro, pero el coste aproximado con el modelo que se carga de forma predeterminada es de **5 céntimos por examen**. Este precio lo fija Google, no yo, y puede variar en el futuro. En tu cuenta personal de Google puedes consultar el consumo realizado con frecuencia diaria. Así conseguimos que $P = Cmg$ ;)
 
 ---
 
