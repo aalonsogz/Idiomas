@@ -50,7 +50,7 @@ La aplicación te avisará al abrirla en los siguientes casos:
 
 Esta aplicación es una **aplicación de escritorio**: se ejecuta en tu propio ordenador, no en un servidor externo. Esto significa que todo el funcionamiento de la aplicación ocurre de forma local, en tu máquina.
 
-La única excepción es la evaluación del examen: tus respuestas se envían a Google (Gemini) para ser evaluadas, utilizando tu propia cuenta y API Key. **Tus datos no se envían a ningún otro sitio.**
+La única excepción es la generación de preguntas, que se hace a partir del texto del examen, y sobre todo la evaluación del examen: tus respuestas se envían a Google (Gemini) para ser evaluadas, utilizando tu propia cuenta y API Key. **Tus datos no se envían a ningún otro sitio.**
 
 Es importante señalar que, como creador de la aplicación, **no intervengo en ningún momento en este proceso**. Una vez descargada, el funcionamiento de la aplicación se produce íntegramente entre el usuario, su ordenador y los servicios de Google. La aplicación no incorpora ningún tipo de telemetría, analítica ni mecanismo de recopilación de datos. No recibo información alguna sobre quién utiliza la aplicación, cuándo lo hace ni qué respuestas proporciona.
 
