@@ -32,6 +32,8 @@ Si encuentras algún error o tienes ideas para mejorar la aplicación, puedes ab
 3. Escribe un título breve y describe el error o sugerencia.
 4. Pulsa **"Submit new issue"**.
 
+Si te fijas, en la aplicación abajo a la derecha, hay un botón que pone sorporte. Ese botón genera un zip para diagnosticar problemas, que debes de adjuntar en el issue para ayudar a entender cuál es el problema. Si el ZIP de soporte no aparece en tu carpeta de Descargas, sea porque la aplicación no se abre o por cualquier otro motivo, búscalo en esta ruta: C:\Users\TU_USUARIO\AppData\Local\Idiomas
+
 ¡Toda sugerencia es bienvenida! No tengo un compromiso de solucionar los problemas individuales que puedan surgir ni corregirlos de forma inmediata. 
 
 ---
