@@ -7,79 +7,36 @@ body:
   - type: markdown
     attributes:
       value: |
-        Gracias por informar del problema.
-
-        Si la app te deja hacerlo, pulsa antes el botón `Soporte` dentro de la aplicación y adjunta aquí el ZIP generado.
-  - type: input
-    id: app_version
-    attributes:
-      label: Versión de la app
-      description: Indica la versión exacta si la conoces
-      placeholder: "Ejemplo: v1.0"
-    validations:
-      required: true
-  - type: dropdown
-    id: issue_type
-    attributes:
-      label: Tipo de problema
-      options:
-        - La app no se abre
-        - La app se cierra sola
-        - Error al grabar audio
-        - Error al reproducir audio
-        - Error al evaluar
-        - Error al exportar PDF
-        - Otro
-    validations:
-      required: true
+        Si la app te deja hacerlo, pulsa antes el botón `Soporte` y adjunta aquí el ZIP generado.
   - type: textarea
     id: what_happened
     attributes:
       label: Qué ha pasado
-      description: Explica el fallo de la forma más concreta posible
-      placeholder: "He pulsado..., después ha ocurrido..."
+      description: Explica el problema con tus palabras
+      placeholder: "He hecho..., y después ha pasado..."
     validations:
       required: true
   - type: textarea
-    id: expected
+    id: context
     attributes:
-      label: Qué esperabas que ocurriera
-      placeholder: "Esperaba que la app..."
+      label: Qué estabas haciendo
+      description: Escribe brevemente qué paso estabas intentando completar
+      placeholder: "Estaba en la pantalla de..., había pulsado..."
     validations:
       required: true
-  - type: textarea
-    id: steps
+  - type: input
+    id: app_version
     attributes:
-      label: Pasos para reproducirlo
-      description: Escribe los pasos en orden
-      placeholder: |
-        1. Abrir la app
-        2. Seleccionar...
-        3. Pulsar...
-        4. Ver el error
+      label: Versión de la app
+      description: Si la sabes, escríbela aquí
+      placeholder: "Ejemplo: v1.0"
     validations:
-      required: true
+      required: false
   - type: textarea
     id: support_bundle
     attributes:
       label: ZIP de soporte
-      description: Arrastra aquí el ZIP generado por el botón `Soporte` de la app
+      description: Arrastra aquí el ZIP generado por la app, si lo tienes
       placeholder: "Adjunta aquí el archivo support_bundle_...zip"
     validations:
       required: false
-  - type: textarea
-    id: extra
-    attributes:
-      label: Información adicional
-      description: Mensajes que hayas visto, capturas, observaciones, etc.
-    validations:
-      required: false
-  - type: checkboxes
-    id: checks
-    attributes:
-      label: Confirmación
-      options:
-        - label: He comprobado que este problema no está ya reportado en las incidencias abiertas
-          required: true
-        - label: Si la app me lo ha permitido, he generado y adjuntado el ZIP de soporte
-          required: false

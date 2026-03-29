@@ -1,0 +1,22 @@
+name: Sugerencia o mejora
+description: Propón una idea para mejorar la app
+title: "[Sugerencia]: "
+labels:
+  - enhancement
+body:
+  - type: textarea
+    id: idea
+    attributes:
+      label: Tu sugerencia
+      description: Cuéntame qué te gustaría mejorar o añadir
+      placeholder: "Me gustaría que la app..."
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Por qué sería útil
+      description: Explica brevemente por qué crees que esta mejora ayudaría
+      placeholder: "Sería útil porque..."
+    validations:
+      required: false

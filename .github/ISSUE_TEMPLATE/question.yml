@@ -8,27 +8,14 @@ body:
     id: question
     attributes:
       label: Tu consulta
-      description: Explica tu duda con el mayor detalle posible
+      description: Explica tu duda de la forma más clara posible
       placeholder: "Quiero saber cómo..."
-    validations:
-      required: true
-  - type: dropdown
-    id: topic
-    attributes:
-      label: Tema
-      options:
-        - Instalación
-        - Uso general
-        - Audio o micrófono
-        - Evaluación
-        - Exportación de PDF
-        - Otro
     validations:
       required: true
   - type: textarea
     id: context
     attributes:
       label: Contexto adicional
-      description: Añade capturas, mensajes o detalles que ayuden a entender la consulta
+      description: Si quieres, añade aquí más detalles o una captura
     validations:
       required: false
