@@ -8,7 +8,7 @@ A continuación se explica cómo usar la aplicación, paso a paso.
 
 Al abrir la aplicación, se muestra la siguiente pantalla de configuración:
 
-![Pantalla de configuración inicial](capturas/1.png)
+![Pantalla de configuración inicial](app_config/1.png)
 
 ### 1.1. Elegir el tipo de examen
 
@@ -44,7 +44,7 @@ Cuando finalice el tiempo, se te pedirá leer un párrafo al azar. La lectura de
 
 ## 3. Grabación del examen oral
 
-![Pantalla de las preguntas del examen oral](capturas/2.png)
+![Pantalla de las preguntas del examen oral](app_config/2.png)
 
 *   Para grabar tu respuesta, haz click en el icono del círculo con un micrófono dentro. Una vez se termine de formular la pregunta, podrás hacer click sobre el icono, y se empezará a grabar tu respuesta. Cuando termines, vuelve a hacer click en el icono.
 *   **Atajo recomendado:** Puedes usar también la **barra de espacio** para iniciar y detener la grabación. Es la opción más cómoda.
