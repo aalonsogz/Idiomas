@@ -1,0 +1,85 @@
+name: Error en la app
+description: Informa de un fallo o comportamiento incorrecto
+title: "[Error]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Gracias por informar del problema.
+
+        Si la app te deja hacerlo, pulsa antes el botón `Soporte` dentro de la aplicación y adjunta aquí el ZIP generado.
+  - type: input
+    id: app_version
+    attributes:
+      label: Versión de la app
+      description: Indica la versión exacta si la conoces
+      placeholder: "Ejemplo: v1.0"
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: Tipo de problema
+      options:
+        - La app no se abre
+        - La app se cierra sola
+        - Error al grabar audio
+        - Error al reproducir audio
+        - Error al evaluar
+        - Error al exportar PDF
+        - Otro
+    validations:
+      required: true
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: Qué ha pasado
+      description: Explica el fallo de la forma más concreta posible
+      placeholder: "He pulsado..., después ha ocurrido..."
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Qué esperabas que ocurriera
+      placeholder: "Esperaba que la app..."
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Pasos para reproducirlo
+      description: Escribe los pasos en orden
+      placeholder: |
+        1. Abrir la app
+        2. Seleccionar...
+        3. Pulsar...
+        4. Ver el error
+    validations:
+      required: true
+  - type: textarea
+    id: support_bundle
+    attributes:
+      label: ZIP de soporte
+      description: Arrastra aquí el ZIP generado por el botón `Soporte` de la app
+      placeholder: "Adjunta aquí el archivo support_bundle_...zip"
+    validations:
+      required: false
+  - type: textarea
+    id: extra
+    attributes:
+      label: Información adicional
+      description: Mensajes que hayas visto, capturas, observaciones, etc.
+    validations:
+      required: false
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Confirmación
+      options:
+        - label: He comprobado que este problema no está ya reportado en las incidencias abiertas
+          required: true
+        - label: Si la app me lo ha permitido, he generado y adjuntado el ZIP de soporte
+          required: false
