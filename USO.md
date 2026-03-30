@@ -6,7 +6,7 @@ A continuación se explica cómo usar la aplicación, paso a paso.
 
 ## 1. Configuración inicial
 
-Al abrir la aplicación, se muestra la siguiente pantalla de configuración:
+Al abrir la aplicación (la primera vez tarda bastante en abrirse, 20-30 segundos), se muestra la siguiente pantalla de configuración:
 
 ![Pantalla de configuración inicial](app_config/1.png)
 
