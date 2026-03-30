@@ -33,6 +33,22 @@ En la aplicación hay un campo llamado **"Modelo"**. Este es el campo donde se i
 
 El modelo que se carga por defecto es **gemini-flash-latest**, porque es el que considero más adecuado en relación calidad-precio. No obstante, no es el más avanzado. Si quieres realizar el examen con el modelo más avanzado, utiliza el modelo **gemini-pro-latest**, que es casi 10 veces más caro. 
 
+### 1.4. Micrófono
+
+En la pantalla de configuración hay también un campo llamado **"Micrófono"**.
+
+Por defecto, la aplicación usa la opción **"Automático"**, que es la recomendada en la mayoría de los casos. Con esta opción, la aplicación intenta utilizar el micrófono principal del ordenador sin que tengas que configurar nada más.
+
+Si tu ordenador tiene varios dispositivos de entrada de audio, por ejemplo el micrófono del portátil, unos auriculares con micrófono, una webcam o un micrófono USB, puedes elegir manualmente cuál quieres usar.
+
+Conviene cambiar este campo solamente si notas alguno de estos problemas:
+
+*   La aplicación no está grabando tu voz correctamente.
+*   Se oye un micrófono distinto del que quieres usar.
+*   Has conectado un micrófono externo y prefieres usarlo en vez del integrado del portátil.
+
+Si no tienes problemas de audio, déjalo en **"Automático"**.
+
 
 ## 2. Preparación
 
