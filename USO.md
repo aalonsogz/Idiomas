@@ -62,7 +62,7 @@ Cuando finalice el tiempo, se te pedirá leer un párrafo al azar. La lectura de
 
 ![Pantalla de las preguntas del examen oral](app_config/2.png)
 
-*   Para grabar tu respuesta, haz click en el icono del círculo con un micrófono dentro. Una vez se termine de formular la pregunta, podrás hacer click sobre el icono, y se empezará a grabar tu respuesta. Cuando termines, vuelve a hacer click en el icono.
+*   Para grabar tu respuesta, haz click en el icono con el micrófono dentro. Una vez se termine de formular la pregunta, podrás hacer click sobre el icono, y se empezará a grabar tu respuesta. Cuando termines, vuelve a hacer click en el icono.
 *   **Atajo recomendado:** Puedes usar también la **barra de espacio** para iniciar y detener la grabación. Es la opción más cómoda.
 *   Las preguntas pueden repetirse una única vez pulsando el botón correspondiente.
 
