@@ -30,6 +30,7 @@ Es tu clave personal para usar los modelos de Google Gemini. La aplicación la u
 1. Entra en la [página de descargas del proyecto](https://github.com/aalonsogz/Idiomas/tags).
 2. Haz clic en la versión más reciente.
 3. En la sección **Assets**, descarga el archivo `.zip` de la aplicación.
+4. Debes descargar el archivo Idiomas.zip, que aparece recuadrado en rojo. 
 
 ### Preparar la carpeta y crear un acceso directo
 
