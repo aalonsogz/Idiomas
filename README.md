@@ -56,7 +56,7 @@ La única excepción es la generación de preguntas, que se hace a partir del te
 
 Es importante señalar que, como creador de la aplicación, **no intervengo en ningún momento en este proceso**. Una vez descargada, el funcionamiento de la aplicación se produce íntegramente entre el usuario, su ordenador y los servicios de Google. La aplicación no incorpora ningún tipo de telemetría, analítica ni mecanismo de recopilación de datos. No recibo información alguna sobre quién utiliza la aplicación, cuándo lo hace ni qué respuestas proporciona.
 
-Al iniciarse, la aplicación realiza una conexión con el repositorio de **GitHub del proyecto** para cargar de forma remota la configuración más reciente (como el modelo de IA recomendado), así como cualquier aviso o comunicación relevante que necesite transmitirse a los usuarios.
+Al iniciarse, la aplicación realiza una conexión con el repositorio de **GitHub del proyecto** para cargar de forma remota la configuración más reciente (como el modelo de IA recomendado), así como cualquier aviso o comunicación relevante que necesite transmitir a los usuarios.
 
 ---
 
